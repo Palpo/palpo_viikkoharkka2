@@ -17,4 +17,3 @@ https://www.youtube.com/watch?v=fQazhzcC-rg
 3. Lisäksi voit miettiä seuraavia kysymyksiä
     - Onko toteutuksesi vahvasti konsistentti (*strongly consistent*) - eli oletko varma, että haku palauttaa kaikki hakua ennen tallennetut tiedot?
     - Miten hakisit tietyn eläimen saalistajat - eli sellaiset eläimet, joiden saaliseläimenä X on?
-4. Lisää toteuttamasi muutokset GitHub:iin
